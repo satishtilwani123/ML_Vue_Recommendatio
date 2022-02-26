@@ -1,6 +1,15 @@
 # ML_Vue_Recommendation_System
  ML based recommendation system deployed in Vuejs using Flask API
 
+## Step's for creating cosine_similarity.pickle file for project:
+
+**Creating cosine_similarity.pickle file:**
+- *Move into Project*
+- *Open Recommendation_System folder in Jupyter notebook*
+- *Run all the line's of code one by one*
+- *After running all commands pickle file created*
+- *Put it into root directory*
+
 ## Command's needed to run FLASK API:
 
 **Create virtual environment:**
