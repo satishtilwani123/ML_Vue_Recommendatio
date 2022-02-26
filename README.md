@@ -71,4 +71,7 @@
 **Add node_modules**
 - *Copy node_modules folder form (current installed project) & paste it inside our project/recommend_movies.*
 
+**Running the /recommend_movies folder**
+- *num run serve*
+
 *Finally all step's are done, Thank you*
