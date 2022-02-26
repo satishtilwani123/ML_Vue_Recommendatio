@@ -1,4 +1,4 @@
-# ML_Vue_Recommendatio
+# ML_Vue_Recommendation_System
  ML based recommendation system deployed in Vuejs using Flask API
 
 ## Command's needed to run FLASK API:
